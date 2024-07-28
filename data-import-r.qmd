@@ -2,8 +2,8 @@
 title: Importing data into R
 subtitle: Cheatsheet
 date: today
-editor:
-  render-on-save: true
+# editor:
+#   render-on-save: true
 ---
 
 ::: callout-note

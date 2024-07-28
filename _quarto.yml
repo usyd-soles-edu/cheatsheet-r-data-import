@@ -1,11 +1,8 @@
 project:
-  title: "boxplot"
-
-
+  title: "Importing data into R"
 
 format:
   html:
-    fontsize: 10pt
     theme: 
       light: matria
       dark: slate
